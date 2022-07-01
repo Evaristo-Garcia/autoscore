@@ -1,0 +1,8 @@
+# ignoring pycharm configuration folder
+.idea
+# ignoring cache
+__pycache__
+# Old backup data
+backupdata.txt
+# Other old backup data
+data.csv
