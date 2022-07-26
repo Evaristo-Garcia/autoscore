@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="index.css" rel="stylesheet">
+    <script src="index.js"></script>
+    <title>AutoScore</title>
+</head>
+<body>
+<header>
+    <a href="https://www.michiganbajaracing.com/" id="logo">M</a>
+    <!-- Navigation bar at the top -->
+    <nav>
+        <a href="#data">Data</a>
+        <a href="https://github.com/Evaristo-Garcia/autoscore" target="_blank">Code</a>
+        <a>Contact</a>
+        <a><img src="images/Instagram.svg" id="insta-logo"></a>
+    </nav>
+</header>
+
+<div class="content">
+    <div id="intro">
+        <p>
+            In an effort to help you with your strategy, we would like to present <i>AutoScore</i>. <br><br><i>AutoScore</i> automatically pulls
+            data from <a href="http://results.bajasae.net/Leaderboard.aspx">Baja Sae Results</a> and calculates every
+            teams' live score as well as predicting their endurance finish during the race.
+        </p>
+    </div>
+    <!--Standings table-->
+    <div id="data-table">
+    <h1 id="table-header">2022 Standings</h1>
+        <table>
+            <th>Pos</th>
+            <th>School</th>
+            <th>Team</th>
+            <th>Static</th>
+            <th>Dynamic</th>
+            <th>Overall</th>
+            <th>Predicted</th>
+        </table>
+    </div>
+    <section id="downloads">
+        <div id="data-text">
+            <p>
+                We hope this has helped you explore new strategies or simply take a little bit of the stress out of an
+                ever-chaotic comp environment. If you would like to experiment further or check our numbers, we have
+                provided our raw scraped data.
+            </p>
+        </div>
+        <div id="data-downloads">
+            <ul>
+                <li>data.json</lil>
+                <li>endurance.json</li>
+            </ul>
+        </div>
+    </section>
+</div>
+<footer><a href="https://www.michiganbajaracing.com/">Powered by Michigan Baja Racing</a></footer>
+</body>
+</html>

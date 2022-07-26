@@ -1,0 +1,112 @@
+/*blue: #00274C; light-blue: #AEC3F4; maize:#D8A31A; white: #F1F1E6;*/
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Saira");
+
+/*
+Layout Properties (position, float, clear, display)
+Box Model Properties (width, height, margin, padding)
+Visual Properties (color, background, border, box-shadow)
+Typography Properties (font-size, font-family, text-align, text-transform)
+Misc Properties (cursor, overflow, z-index)
+*/
+
+html, body {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    color: #F1F1E6;
+    background-color: #00274C;
+    font-family: "Saira", Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: underline #D8A31A;
+}
+
+a:hover {
+    text-decoration: underline #AEC3F4;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 75px;
+    margin-left: 75px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+header a {
+    color: #F1F1E6;
+}
+
+#insta-logo {
+    vertical-align: bottom;
+    height: 1.5rem;
+    filter: invert(94%) sepia(12%) saturate(261%) hue-rotate(13deg) brightness(108%) contrast(89%);
+}
+
+#insta-logo:hover {
+    filter: invert(74%) sepia(23%) saturate(491%) hue-rotate(186deg) brightness(102%) contrast(91%);
+}
+
+.content {
+    margin-right: 75px;
+    margin-left: 75px;
+    flex: 1 0 auto;
+}
+
+#intro {
+    padding: 50px;
+    color: #00274C;
+    background-color: #F1F1E6;
+    font-size: 1.5rem;
+}
+
+#intro a {
+    color: #00274C;
+}
+
+#table-header {
+    font-family: "Audiowide", Helvetica, sans-serif;
+    font-size: 3rem;
+}
+
+table {
+    width: 100%;
+    border: 10px solid;
+    border-color: red;
+}
+
+th {
+    border: 0px;
+    border-bottom: 1px;
+    border-color: #F1F1E6;
+    padding: 0px;
+    margin: 0px;
+    color: #D8A31A;
+    font-size: 1.5rem;
+}
+
+#downloads {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 50px;
+    background: #F1F1E6;
+    color: #00274C;
+    font-size: 1.5rem;
+}
+
+footer, footer a {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #D8A31A;
+    font-size: 0.75rem;
+    text-align: center;
+    text-decoration: none;
+}
