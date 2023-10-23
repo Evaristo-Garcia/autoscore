@@ -1,7 +1,6 @@
 # Evaristo Garcia Reyna - Michigan Baja Racing
 # 6/10/2022
 
-
 # Getting driver
 from selenium import webdriver
 # Getting headless option
@@ -16,6 +15,10 @@ from Teams import *
 import time
 # Used to load json files
 import json
+
+# importing updated chromedriver options
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
 
 
 class Dictionary(dict):
@@ -53,7 +56,7 @@ def open_event(event, driver):
 # R - Driver and if event is static, dynamic, or endurance (s / d / e)
 # E - Grabs results table
 def grab_table(driver, mode):
-    time.sleep(1.1)
+    time.sleep(1.5) # 1.1 is too slow
     if mode == 's':
         tableid = "MainContent_GridViewStaticResults"
     elif mode == 'd':
@@ -217,6 +220,7 @@ def traction_scoring(attribute, driver, dictionary):
     for row in rows:
         num = row.find_element(By.XPATH, './td[1]').text
         adjtime = float(row.find_element(By.XPATH, './td[5]').text)
+        # i = 6
         if attribute == 'sled':
             i = 6
         else:
@@ -302,7 +306,10 @@ def endurance_scoring(driver):
                 min_total_laps = min(min_total_laps, current_lap)
 
             # Team number, predicted final lap count, temp score of 0.0
-            temp_team = EnduranceTeam(num, f[num]["school"], f[num]["name"], current_lap, final_lap, f[num]["overall"])
+            try:
+                temp_team = EnduranceTeam(num, f[num]["school"], f[num]["name"], current_lap, final_lap, f[num]["overall"])
+            except KeyError:
+                print(num)
             teams.append(temp_team)
 
     # Looping through teams calculating their endurance score and predicted overall
@@ -325,12 +332,12 @@ def maneuv(driver, dictionary):
 
 
 def sled(driver, dictionary):
-    open_event('Sled Pull', driver)
+    open_event('Hill Climb', driver)
     traction_scoring('sled', driver, dictionary)
 
 
 def sus(driver, dictionary, scoring='t'):
-    open_event('Suspension', driver)
+    open_event('Rock Crawl', driver)
     if scoring == 't':
         traction_scoring('sus', driver, dictionary)
     else:  # scoring == 'm'
@@ -359,6 +366,7 @@ def part1_action(driver):
     teams = Dictionary()
 
     # Static Events
+    time.sleep(1.5)
     print('Sales')
     sales(driver, teams)
     print('Cost')
@@ -394,9 +402,13 @@ def part1_action(driver):
 def part1():
     # Initializing site
     chrome_options = Options()
-    chrome_options.add_argument('--headless')
+    # chrome_options.add_argument('--headless')
 
-    driver = webdriver.Chrome("/Users/Evaristo/OneDrive - Umich/chromedriver.exe", chrome_options=chrome_options)
+    service = Service(executable_path=ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, chrome_options=chrome_options)
+
+    # breakpoint()
+    # driver = webdriver.Chrome("/Users/Evaristo/OneDrive - Umich/chromedriver.exe", chrome_options=chrome_options)
     url = 'https://results.bajasae.net/EventResults.aspx'
     driver.get(url)
 
@@ -413,11 +425,14 @@ def part1():
 def part2():
     # Initializing site
     chrome_options = Options()
-    chrome_options.add_argument('--headless')
+    # chrome_options.add_argument('--headless')
 
-    driver = webdriver.Chrome("/Users/Evaristo/OneDrive - Umich/chromedriver.exe", chrome_options=chrome_options)
+    service = Service(executable_path=ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, chrome_options=chrome_options)
+
     url = 'https://results.bajasae.net/Leaderboard.aspx'
     driver.get(url)
+    
     print("Endurance")
     endurance(driver)
     driver.quit()

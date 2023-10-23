@@ -8,7 +8,7 @@ import time
 if __name__ == '__main__':
     start = time.time()
 
-    flag = False
+    # flag = False
     flag = True
 
     # Part 1 - Generating JSON

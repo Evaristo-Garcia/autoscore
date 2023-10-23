@@ -39,7 +39,7 @@ class EnduranceTeam:
         self.final_lap = final_lap
         self.endurance_score = 0.0
         self.overall_score = overall_score
-        self.bonus = 80.0
+        self.bonus = 0.0
         self.predicted_overall_score = 0.0
 
     def sum_endurance_overall(self):

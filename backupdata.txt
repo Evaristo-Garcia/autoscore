@@ -1,0 +1,943 @@
+Sales
+43 Univ of Nevada - Las Vegas Rebel Racing OK 70.00 70.00
+95 Univ of Missouri - Kansas City Roo Racing OK 67.31 67.31
+31 Univ of Maryland - College Park Terps Racing OK 66.63 66.63
+120 Youngstown State Univ penguin baja racing OK 65.86 65.86
+67 Concordia University Concordia Baja Racing OK 64.57 64.57
+17 McMaster Univ McMaster Baja Racing OK 64.25 64.25
+102 Universidade de Santa Cruz do Sul Baja de GalpÃ£o - UNISC OK 63.15 63.15
+32 Purdue Univ - W Lafayette Purdue Baja Racing OK 63.03 63.03
+22 D Y Patil College Of Engineering, Akurdi Team Predators Racing OK 62.61 62.61
+96 Centro Universitario Da FEI FEI Baja OK 62.09 62.09
+105 Univ of Michigan - Ann Arbor Michigan Baja Racing OK 62.05 62.05
+35 Case Western Reserve Univ CWRU Motorsports OK 61.99 61.99
+116 Purdue Univ - Northwest PNW Baja Motorsports OK 61.46 61.46
+23 Univ of Arizona Baja Wildcat Racing OK 61.28 61.28
+15 Univ of Rochester Yellowjacket Racing OK 61.28 61.28
+74 Univ of Georgia UGA Motorsports OK 61.18 61.18
+33 Univ of Oklahoma Sooner Off-Road OK 61.14 61.14
+40 Univ of Wisconsin - Madison Badger Racing OK 60.95 60.95
+56 Rochester Institute of Technology RIOT RACING OK 60.84 60.84
+127 Michigan State University MSU Baja Racing OK 60.78 60.78
+64 Univ of Manitoba Red Lion Racing OK 60.24 60.24
+123 North Carolina State Univ - Raleigh Pack Motorsports OK 59.98 59.98
+90 Fairfield Univ Fairfield University Baja OK 59.81 59.81
+59 Georgia Southern Univ Eagle Motorsports OK 59.75 59.75
+14 SUNY - Stony Brook Stony Brook Motorsports OK 58.85 58.85
+68 Iowa State Univ Cyclone Off-Road Racing OK 58.85 58.85
+75 Univ of Illinois - Urbana Champaign Off-Road Illini Baja SAE OK 58.22 58.22
+104 Cornell Univ Cornell Baja Racing OK 57.80 57.80
+77 Ryerson Univ Ryerson Baja Racing OK 57.43 57.43
+89 The Ohio State University Baja Buckeyes OK 56.42 56.42
+36 Univ of Iowa Iowa Baja Racing OK 55.76 55.76
+72 New Jersey Institute of Technology Highlander racing OK 55.75 55.75
+100 Lehigh Univ Lehigh Engineers OK 55.40 55.40
+69 New York University NYU Tandon Motorsports OK 55.06 55.06
+21 Univ of San Diego Torero Racing OK 54.80 54.80
+30 Queen's Univ Queen's Baja SAE OK 54.59 54.59
+42 Wichita State Univ Shocker Racing OK 54.49 54.49
+34 McGill Univ McGill Baja Racing OK 54.38 54.38
+103 Univ of Missouri Mizzou Baja Racing OK 54.01 54.01
+91 Univ of Nevada - Reno Wolf Pack Racing OK 52.09 52.09
+79 Grove City College Grove City Racing OK 51.88 51.88
+19 Johns Hopkins Univ Blue Jay Racing OK 51.49 51.49
+49 San Jose State University Spartan Racing OK 51.31 51.31
+83 California Polytechnic State Univ-SLO Cal Poly Racing OK 51.03 51.03
+47 Univ of Tennessee -Chattanooga Racing Mocs OK 50.97 50.97
+66 Stevens Institute of Technology Dirty Ducks Racing OK 50.85 50.85
+28 Clarkson University Golden Knights Racing OK 50.34 50.34
+119 Georgia Institute of Technology GT Off-Road OK 50.15 50.15
+25 College of New Jersey TCNJ Motorsports OK 50.05 50.05
+26 California State Univ - Los Angeles Rugged Eagle Motorsports OK 49.47 49.47
+121 Tennessee Tech Univ TnTech Baja OK 49.47 49.47
+97 Univ Federal do Rio Grande do Norte Car-Kara Baja SAE OK 49.35 49.35
+39 California State Poly Univ - Pomona Bronco Racing OK 49.14 49.14
+16 Virginia Tech VT Baja OK 48.79 48.79
+41 King Fahd Univ of Petroleum & Minerals kfupm racing OK 48.67 48.67
+52 Miami Univ Redhawk Racing OK 48.08 48.08
+61 San Diego State Univ Aztec Baja Racing OK 47.96 47.96
+80 Quinnipiac College Bobcat Racing OK 47.91 47.91
+76 Montana State Univ - Bozeman Bobcat Motorsports OK 47.38 47.38
+93 Univ of Akron Zips Baja OK 46.86 46.86
+126 Univ of Illinois - Chicago UIC Motorsports OK 46.62 46.62
+37 Rowan Univ Rowan Motorsports OK 45.97 45.97
+63 Binghamton Univ Binghamton University OK 45.52 45.52
+29 IPN - UPIITA Ocelot Racing IPN-UPIITA OK 44.40 44.40
+45 George Washington Univ GW Baja OK 44.37 44.37
+87 Univ of Central Florida Knights Racing OK 42.95 42.95
+86 Kansas State Univ Wildcat Offroad OK 42.86 42.86
+107 Univ of Maryland - Baltimore County UMBC Racing OK 42.12 42.12
+125 Ecole de Technologie Superieure Baja ETS OK 41.84 41.84
+118 West Virginia Univ Mountaineers OK 41.13 41.13
+115 North Carolina A & T State Univ Aggie Racing OK 40.84 40.84
+78 Union College Union College BAJA Racing OK 40.81 40.81
+18 Ohio Northern Univ Polar Bear Racing OK 40.49 40.49
+82 Univ of Puerto Rico-Mayaquez RUM Racing Baja SAE OK 39.84 39.84
+112 Kettering Univ Kettering Motorsports OK 39.59 39.59
+24 Northeastern Univ Skunkworks OK 35.86 35.86
+106 Univ of Texas - El Paso Madpete Motorsports OK 35.11 35.11
+44 Manhattan College Manhattan College Jasper Racing OK 33.87 33.87
+110 Pennsylvania College of Technology PCT Baja OK 33.60 33.60
+55 Penn State Univ - Altoona Penn State Altoona Motorsports OK 33.27 33.27
+111 Univ of Wisconsin - Milwaukee Brew City Baja OK 32.93 32.93
+50 California State Univ - Fresno Fresno State Bulldog Racing OK 32.40 32.40
+65 Univ of Wisconsin - Platteville Pioneer Racing OK 32.10 32.10
+Cost
+43 Univ of Nevada - Las Vegas Rebel Racing OK 20.00 80.00 0.00 100.00
+125 Ecole de Technologie Superieure Baja ETS OK 20.00 72.66 0.00 92.66
+105 Univ of Michigan - Ann Arbor Michigan Baja Racing OK 17.00 74.86 0.00 91.86
+38 Université Laval Alerion OK 20.00 71.64 0.00 91.64
+56 Rochester Institute of Technology RIOT RACING OK 16.00 72.46 0.00 88.46
+107 Univ of Maryland - Baltimore County UMBC Racing OK 19.00 67.69 0.00 86.69
+40 Univ of Wisconsin - Madison Badger Racing OK 20.00 64.92 0.00 84.92
+31 Univ of Maryland - College Park Terps Racing OK 18.00 66.63 0.00 84.63
+104 Cornell Univ Cornell Baja Racing OK 20.00 60.51 0.00 80.51
+93 Univ of Akron Zips Baja OK 11.00 68.80 0.00 79.80
+36 Univ of Iowa Iowa Baja Racing OK 10.00 69.53 0.00 79.53
+19 Johns Hopkins Univ Blue Jay Racing OK 20.00 59.14 0.00 79.14
+45 George Washington Univ GW Baja OK 18.00 61.08 0.00 79.08
+97 Univ Federal do Rio Grande do Norte Car-Kara Baja SAE OK 19.00 59.47 0.00 78.47
+35 Case Western Reserve Univ CWRU Motorsports OK 17.00 60.67 0.00 77.67
+119 Georgia Institute of Technology GT Off-Road OK 12.00 65.67 0.00 77.67
+83 California Polytechnic State Univ-SLO Cal Poly Racing OK 20.00 57.55 0.00 77.55
+75 Univ of Illinois - Urbana Champaign Off-Road Illini Baja SAE OK 14.00 62.10 0.00 76.10
+29 IPN - UPIITA Ocelot Racing IPN-UPIITA OK 20.00 53.13 0.00 73.13
+30 Queen's Univ Queen's Baja SAE OK 20.00 50.98 0.00 70.98
+17 McMaster Univ McMaster Baja Racing OK 20.00 49.99 0.00 69.99
+95 Univ of Missouri - Kansas City Roo Racing OK 19.00 50.22 0.00 69.22
+39 California State Poly Univ - Pomona Bronco Racing OK 10.00 57.96 0.00 67.96
+28 Clarkson University Golden Knights Racing OK 7.00 60.96 0.00 67.96
+110 Pennsylvania College of Technology PCT Baja OK 18.00 49.92 0.00 67.92
+32 Purdue Univ - W Lafayette Purdue Baja Racing OK 19.00 48.86 0.00 67.86
+62 Cleveland State Univ Vikings Racing OK 6.00 61.01 0.00 67.01
+73 California State Univ- Chico Wildcat racing OK 14.00 52.09 0.00 66.09
+72 New Jersey Institute of Technology Highlander racing OK 9.00 56.72 0.00 65.72
+76 Montana State Univ - Bozeman Bobcat Motorsports OK 11.00 54.36 0.00 65.36
+120 Youngstown State Univ penguin baja racing OK 20.00 44.66 0.00 64.66
+24 Northeastern Univ Skunkworks OK 8.00 56.64 0.00 64.64
+16 Virginia Tech VT Baja OK 8.00 56.45 0.00 64.45
+121 Tennessee Tech Univ TnTech Baja OK 17.00 47.08 0.00 64.08
+84 Pittsburg State University Gorilla Racing OK 7.00 54.46 0.00 61.46
+18 Ohio Northern Univ Polar Bear Racing OK 6.00 54.64 0.00 60.64
+82 Univ of Puerto Rico-Mayaquez RUM Racing Baja SAE OK 17.00 43.56 0.00 60.56
+87 Univ of Central Florida Knights Racing OK 19.00 41.40 0.00 60.40
+21 Univ of San Diego Torero Racing OK 13.00 45.57 0.00 58.57
+34 McGill Univ McGill Baja Racing OK 8.00 48.61 0.00 56.61
+94 SUNY Inst of Tech - Utica Wildcat Motorsports OK 17.00 35.57 0.00 52.57
+26 California State Univ - Los Angeles Rugged Eagle Motorsports OK 10.00 40.83 0.00 50.83
+41 King Fahd Univ of Petroleum & Minerals kfupm racing OK 4.00 46.26 0.00 50.26
+100 Lehigh Univ Lehigh Engineers OK 13.00 36.75 0.00 49.75
+66 Stevens Institute of Technology Dirty Ducks Racing OK 8.00 41.33 0.00 49.33
+64 Univ of Manitoba Red Lion Racing OK 15.00 34.23 0.00 49.23
+118 West Virginia Univ Mountaineers OK 14.00 34.63 0.00 48.63
+23 Univ of Arizona Baja Wildcat Racing OK 13.00 34.96 0.00 47.96
+123 North Carolina State Univ - Raleigh Pack Motorsports OK 16.00 31.64 0.00 47.64
+47 Univ of Tennessee -Chattanooga Racing Mocs OK 13.00 34.54 0.00 47.54
+86 Kansas State Univ Wildcat Offroad OK 11.00 36.35 0.00 47.35
+61 San Diego State Univ Aztec Baja Racing OK 4.00 42.50 0.00 46.50
+15 Univ of Rochester Yellowjacket Racing OK 7.00 36.24 0.00 43.24
+89 The Ohio State University Baja Buckeyes OK 11.00 31.74 0.00 42.74
+59 Georgia Southern Univ Eagle Motorsports OK 14.00 28.37 0.00 42.37
+50 California State Univ - Fresno Fresno State Bulldog Racing OK 0.00 39.84 0.00 39.84
+115 North Carolina A & T State Univ Aggie Racing OK 13.00 26.07 0.00 39.07
+126 Univ of Illinois - Chicago UIC Motorsports OK 10.00 27.73 0.00 37.73
+37 Rowan Univ Rowan Motorsports OK 13.00 23.14 0.00 36.14
+25 College of New Jersey TCNJ Motorsports OK 17.00 19.14 0.00 36.14
+14 SUNY - Stony Brook Stony Brook Motorsports OK 13.00 22.33 0.00 35.33
+44 Manhattan College Manhattan College Jasper Racing OK 12.00 23.18 0.00 35.18
+68 Iowa State Univ Cyclone Off-Road Racing OK 8.00 26.15 0.00 34.15
+69 New York University NYU Tandon Motorsports OK 11.00 20.90 0.00 31.90
+127 Michigan State University MSU Baja Racing OK 12.00 18.56 0.00 30.56
+52 Miami Univ Redhawk Racing OK 4.00 26.07 0.00 30.07
+67 Concordia University Concordia Baja Racing OK 17.00 12.99 0.00 29.99
+78 Union College Union College BAJA Racing OK 8.00 21.88 0.00 29.88
+102 Universidade de Santa Cruz do Sul Baja de GalpÃ£o - UNISC OK 15.00 14.47 0.00 29.47
+49 San Jose State University Spartan Racing OK 5.00 22.68 0.00 27.68
+79 Grove City College Grove City Racing OK 9.00 16.55 0.00 25.55
+116 Purdue Univ - Northwest PNW Baja Motorsports OK 17.00 3.22 0.00 20.22
+65 Univ of Wisconsin - Platteville Pioneer Racing OK 20.00 0.00 0.00 20.00
+91 Univ of Nevada - Reno Wolf Pack Racing OK 15.00 1.94 0.00 16.94
+80 Quinnipiac College Bobcat Racing OK 15.00 0.00 0.00 15.00
+42 Wichita State Univ Shocker Racing OK 11.00 0.00 0.00 11.00
+90 Fairfield Univ Fairfield University Baja OK 11.00 0.00 0.00 11.00
+112 Kettering Univ Kettering Motorsports OK 10.00 0.00 0.00 10.00
+103 Univ of Missouri Mizzou Baja Racing OK 8.00 0.00 0.00 8.00
+55 Penn State Univ - Altoona Penn State Altoona Motorsports OK 7.00 0.00 0.00 7.00
+22 D Y Patil College Of Engineering, Akurdi Team Predators Racing OK 0.00 0.00 0.00 0.00
+Design
+19 Johns Hopkins Univ Blue Jay Racing OK 0.00 130.00 0.00 130.00
+102 Universidade de Santa Cruz do Sul Baja de GalpÃ£o - UNISC OK 0.00 130.00 0.00 130.00
+105 Univ of Michigan - Ann Arbor Michigan Baja Racing OK 0.00 130.00 0.00 130.00
+125 Ecole de Technologie Superieure Baja ETS OK 0.00 130.00 0.00 130.00
+32 Purdue Univ - W Lafayette Purdue Baja Racing OK 0.00 120.00 0.00 120.00
+83 California Polytechnic State Univ-SLO Cal Poly Racing OK 0.00 120.00 0.00 120.00
+96 Centro Universitario Da FEI FEI Baja OK 0.00 120.00 0.00 120.00
+104 Cornell Univ Cornell Baja Racing OK 0.00 120.00 0.00 120.00
+23 Univ of Arizona Baja Wildcat Racing OK 0.00 110.00 0.00 110.00
+24 Northeastern Univ Skunkworks OK 0.00 110.00 0.00 110.00
+73 California State Univ- Chico Wildcat racing OK 0.00 120.00 10.00 110.00
+119 Georgia Institute of Technology GT Off-Road OK 0.00 110.00 0.00 110.00
+17 McMaster Univ McMaster Baja Racing OK 0.00 100.00 0.00 100.00
+43 Univ of Nevada - Las Vegas Rebel Racing OK 0.00 100.00 0.00 100.00
+22 D Y Patil College Of Engineering, Akurdi Team Predators Racing OK 0.00 90.00 0.00 90.00
+25 College of New Jersey TCNJ Motorsports OK 0.00 90.00 0.00 90.00
+56 Rochester Institute of Technology RIOT RACING OK 0.00 90.00 0.00 90.00
+40 Univ of Wisconsin - Madison Badger Racing OK 0.00 80.00 0.00 80.00
+67 Concordia University Concordia Baja Racing OK 0.00 80.00 0.00 80.00
+75 Univ of Illinois - Urbana Champaign Off-Road Illini Baja SAE OK 0.00 80.00 0.00 80.00
+87 Univ of Central Florida Knights Racing OK 0.00 80.00 0.00 80.00
+107 Univ of Maryland - Baltimore County UMBC Racing OK 0.00 80.00 0.00 80.00
+120 Youngstown State Univ penguin baja racing OK 0.00 80.00 0.00 80.00
+16 Virginia Tech VT Baja OK 0.00 70.00 0.00 70.00
+28 Clarkson University Golden Knights Racing OK 0.00 70.00 0.00 70.00
+35 Case Western Reserve Univ CWRU Motorsports OK 0.00 120.00 50.00 70.00
+89 The Ohio State University Baja Buckeyes OK 0.00 70.00 0.00 70.00
+26 California State Univ - Los Angeles Rugged Eagle Motorsports OK 0.00 60.00 0.00 60.00
+36 Univ of Iowa Iowa Baja Racing OK 0.00 60.00 0.00 60.00
+38 Université Laval Alerion OK 0.00 60.00 0.00 60.00
+45 George Washington Univ GW Baja OK 0.00 60.00 0.00 60.00
+95 Univ of Missouri - Kansas City Roo Racing OK 0.00 60.00 0.00 60.00
+127 Michigan State University MSU Baja Racing OK 0.00 60.00 0.00 60.00
+21 Univ of San Diego Torero Racing OK 0.00 60.00 10.00 50.00
+31 Univ of Maryland - College Park Terps Racing OK 0.00 50.00 0.00 50.00
+37 Rowan Univ Rowan Motorsports OK 0.00 50.00 0.00 50.00
+39 California State Poly Univ - Pomona Bronco Racing OK 0.00 90.00 40.00 50.00
+59 Georgia Southern Univ Eagle Motorsports OK 0.00 50.00 0.00 50.00
+61 San Diego State Univ Aztec Baja Racing OK 0.00 50.00 0.00 50.00
+65 Univ of Wisconsin - Platteville Pioneer Racing OK 0.00 50.00 0.00 50.00
+66 Stevens Institute of Technology Dirty Ducks Racing OK 0.00 50.00 0.00 50.00
+68 Iowa State Univ Cyclone Off-Road Racing OK 0.00 50.00 0.00 50.00
+72 New Jersey Institute of Technology Highlander racing OK 0.00 80.00 30.00 50.00
+76 Montana State Univ - Bozeman Bobcat Motorsports OK 0.00 50.00 0.00 50.00
+93 Univ of Akron Zips Baja OK 0.00 50.00 0.00 50.00
+116 Purdue Univ - Northwest PNW Baja Motorsports OK 0.00 50.00 0.00 50.00
+14 SUNY - Stony Brook Stony Brook Motorsports OK 0.00 40.00 0.00 40.00
+34 McGill Univ McGill Baja Racing OK 0.00 70.00 30.00 40.00
+44 Manhattan College Manhattan College Jasper Racing OK 0.00 40.00 0.00 40.00
+47 Univ of Tennessee -Chattanooga Racing Mocs OK 0.00 40.00 0.00 40.00
+64 Univ of Manitoba Red Lion Racing OK 0.00 40.00 0.00 40.00
+82 Univ of Puerto Rico-Mayaquez RUM Racing Baja SAE OK 0.00 50.00 10.00 40.00
+110 Pennsylvania College of Technology PCT Baja OK 0.00 40.00 0.00 40.00
+118 West Virginia Univ Mountaineers OK 0.00 40.00 0.00 40.00
+15 Univ of Rochester Yellowjacket Racing OK 0.00 50.00 20.00 30.00
+18 Ohio Northern Univ Polar Bear Racing OK 0.00 50.00 20.00 30.00
+79 Grove City College Grove City Racing OK 0.00 30.00 0.00 30.00
+80 Quinnipiac College Bobcat Racing OK 0.00 30.00 0.00 30.00
+86 Kansas State Univ Wildcat Offroad OK 0.00 30.00 0.00 30.00
+91 Univ of Nevada - Reno Wolf Pack Racing OK 0.00 30.00 0.00 30.00
+115 North Carolina A & T State Univ Aggie Racing OK 0.00 50.00 20.00 30.00
+121 Tennessee Tech Univ TnTech Baja OK 0.00 40.00 10.00 30.00
+123 North Carolina State Univ - Raleigh Pack Motorsports OK 0.00 80.00 50.00 30.00
+126 Univ of Illinois - Chicago UIC Motorsports OK 0.00 40.00 10.00 30.00
+69 New York University NYU Tandon Motorsports OK 0.00 70.00 50.00 20.00
+78 Union College Union College BAJA Racing OK 0.00 70.00 50.00 20.00
+84 Pittsburg State University Gorilla Racing OK 0.00 20.00 0.00 20.00
+29 IPN - UPIITA Ocelot Racing IPN-UPIITA OK 0.00 50.00 40.00 10.00
+30 Queen's Univ Queen's Baja SAE OK 0.00 60.00 50.00 10.00
+55 Penn State Univ - Altoona Penn State Altoona Motorsports OK 0.00 30.00 20.00 10.00
+90 Fairfield Univ Fairfield University Baja OK 0.00 20.00 10.00 10.00
+41 King Fahd Univ of Petroleum & Minerals kfupm racing OK 0.00 30.00 40.00 0.00
+42 Wichita State Univ Shocker Racing OK 0.00 30.00 40.00 0.00
+49 San Jose State University Spartan Racing OK 0.00 30.00 50.00 0.00
+50 California State Univ - Fresno Fresno State Bulldog Racing OK 0.00 20.00 50.00 0.00
+52 Miami Univ Redhawk Racing OK 0.00 0.00 0.00 0.00
+62 Cleveland State Univ Vikings Racing OK 0.00 30.00 50.00 0.00
+63 Binghamton Univ Binghamton University OK 0.00 0.00 0.00 0.00
+74 Univ of Georgia UGA Motorsports OK 0.00 0.00 0.00 0.00
+77 Ryerson Univ Ryerson Baja Racing OK 0.00 0.00 0.00 0.00
+94 SUNY Inst of Tech - Utica Wildcat Motorsports OK 0.00 20.00 20.00 0.00
+97 Univ Federal do Rio Grande do Norte Car-Kara Baja SAE OK 0.00 0.00 0.00 0.00
+100 Lehigh Univ Lehigh Engineers OK 0.00 50.00 50.00 0.00
+103 Univ of Missouri Mizzou Baja Racing OK 0.00 40.00 50.00 0.00
+106 Univ of Texas - El Paso Madpete Motorsports OK 0.00 0.00 50.00 0.00
+111 Univ of Wisconsin - Milwaukee Brew City Baja OK 0.00 0.00 50.00 0.00
+112 Kettering Univ Kettering Motorsports OK 0.00 30.00 50.00 0.00
+Accel
+105 Univ of Michigan - Ann Arbor Michigan Baja Racing OK 3.98100
+17 McMaster Univ McMaster Baja Racing OK 4.32700
+40 Univ of Wisconsin - Madison Badger Racing OK 4.35800
+75 Univ of Illinois - Urbana Champaign Off-Road Illini Baja SAE OK 5.56200
+116 Purdue Univ - Northwest PNW Baja Motorsports OK 10.52300
+107 Univ of Maryland - Baltimore County UMBC Racing OK 4.83600
+87 Univ of Central Florida Knights Racing OK 4.55600
+68 Iowa State Univ Cyclone Off-Road Racing OK 4.80100
+110 Pennsylvania College of Technology PCT Baja OK 4.02300
+120 Youngstown State Univ penguin baja racing OK 4.53600
+16 Virginia Tech VT Baja OK 4.64400
+40 Univ of Wisconsin - Madison Badger Racing OK 4.46200
+43 Univ of Nevada - Las Vegas Rebel Racing OK 4.38000
+56 Rochester Institute of Technology RIOT RACING OK 4.33400
+93 Univ of Akron Zips Baja OK 4.48600
+116 Purdue Univ - Northwest PNW Baja Motorsports OK 5.00600
+38 Université Laval Alerion OK 4.21500
+87 Univ of Central Florida Knights Racing OK 4.70000
+68 Iowa State Univ Cyclone Off-Road Racing OK 4.79700
+72 New Jersey Institute of Technology Highlander racing OK 4.85200
+93 Univ of Akron Zips Baja OK 4.45500
+43 Univ of Nevada - Las Vegas Rebel Racing OK 4.36100
+119 Georgia Institute of Technology GT Off-Road OK 4.64300
+56 Rochester Institute of Technology RIOT RACING OK 4.30200
+30 Queen's Univ Queen's Baja SAE OK 5.00200
+47 Univ of Tennessee -Chattanooga Racing Mocs OK 5.61600
+59 Georgia Southern Univ Eagle Motorsports OK 4.90700
+119 Georgia Institute of Technology GT Off-Road OK 4.49300
+100 Lehigh Univ Lehigh Engineers OK 4.61100
+29 IPN - UPIITA Ocelot Racing IPN-UPIITA OK 4.33800
+62 Cleveland State Univ Vikings Racing OK 4.82400
+100 Lehigh Univ Lehigh Engineers OK 4.56900
+30 Queen's Univ Queen's Baja SAE OK 4.64500
+121 Tennessee Tech Univ TnTech Baja OK 4.56200
+75 Univ of Illinois - Urbana Champaign Off-Road Illini Baja SAE OK 4.78300
+126 Univ of Illinois - Chicago UIC Motorsports OK 5.31300
+102 Universidade de Santa Cruz do Sul Baja de GalpÃ£o - UNISC OK 4.27900
+67 Concordia University Concordia Baja Racing OK 4.73600
+47 Univ of Tennessee -Chattanooga Racing Mocs OK 5.61600
+84 Pittsburg State University Gorilla Racing OK 4.87800
+86 Kansas State Univ Wildcat Offroad OK 4.89400
+62 Cleveland State Univ Vikings Racing OK 4.78100
+95 Univ of Missouri - Kansas City Roo Racing OK 4.48800
+126 Univ of Illinois - Chicago UIC Motorsports OK 5.11100
+102 Universidade de Santa Cruz do Sul Baja de GalpÃ£o - UNISC OK 4.31600
+115 North Carolina A & T State Univ Aggie Racing OK 5.37400
+120 Youngstown State Univ penguin baja racing OK 4.48100
+95 Univ of Missouri - Kansas City Roo Racing OK 4.42700
+35 Case Western Reserve Univ CWRU Motorsports OK 4.26400
+84 Pittsburg State University Gorilla Racing OK 4.83100
+59 Georgia Southern Univ Eagle Motorsports OK 4.80600
+86 Kansas State Univ Wildcat Offroad OK 4.88100
+115 North Carolina A & T State Univ Aggie Racing OK 5.18300
+19 Johns Hopkins Univ Blue Jay Racing OK 4.67300
+15 Univ of Rochester Yellowjacket Racing OK 4.81100
+35 Case Western Reserve Univ CWRU Motorsports OK 4.33000
+127 Michigan State University MSU Baja Racing OK 4.95300
+15 Univ of Rochester Yellowjacket Racing OK 4.78300
+121 Tennessee Tech Univ TnTech Baja OK 4.62400
+127 Michigan State University MSU Baja Racing OK 4.69700
+18 Ohio Northern Univ Polar Bear Racing OK 4.31300
+90 Fairfield Univ Fairfield University Baja OK 4.90200
+79 Grove City College Grove City Racing OK 5.52600
+80 Quinnipiac College Bobcat Racing OK 5.53000
+76 Montana State Univ - Bozeman Bobcat Motorsports OK 5.13700
+83 California Polytechnic State Univ-SLO Cal Poly Racing OK 4.61000
+52 Miami Univ Redhawk Racing OK 6.60700
+90 Fairfield Univ Fairfield University Baja OK 4.98400
+79 Grove City College Grove City Racing OK 5.41700
+125 Ecole de Technologie Superieure Baja ETS OK 4.27400
+96 Centro Universitario Da FEI FEI Baja OK 4.29600
+94 SUNY Inst of Tech - Utica Wildcat Motorsports OK 5.23100
+34 McGill Univ McGill Baja Racing OK 4.70200
+32 Purdue Univ - W Lafayette Purdue Baja Racing OK 4.88300
+73 California State Univ- Chico Wildcat racing OK 4.69100
+39 California State Poly Univ - Pomona Bronco Racing OK 4.66600
+52 Miami Univ Redhawk Racing OK 5.67100
+19 Johns Hopkins Univ Blue Jay Racing OK 4.59300
+125 Ecole de Technologie Superieure Baja ETS OK 4.29200
+28 Clarkson University Golden Knights Racing OK 4.78400
+24 Northeastern Univ Skunkworks OK 4.57200
+118 West Virginia Univ Mountaineers OK 5.70000
+28 Clarkson University Golden Knights Racing OK 5.49300
+123 North Carolina State Univ - Raleigh Pack Motorsports OK 4.53700
+34 McGill Univ McGill Baja Racing OK 4.74500
+123 North Carolina State Univ - Raleigh Pack Motorsports OK 4.56100
+55 Penn State Univ - Altoona Penn State Altoona Motorsports OK 4.92400
+17 McMaster Univ McMaster Baja Racing OK 4.50000
+96 Centro Universitario Da FEI FEI Baja OK 4.35100
+55 Penn State Univ - Altoona Penn State Altoona Motorsports OK 4.82400
+61 San Diego State Univ Aztec Baja Racing OK 4.46900
+39 California State Poly Univ - Pomona Bronco Racing OK 4.52800
+73 California State Univ- Chico Wildcat racing OK 4.63300
+61 San Diego State Univ Aztec Baja Racing OK 4.45500
+104 Cornell Univ Cornell Baja Racing OK 4.26800
+89 The Ohio State University Baja Buckeyes OK 5.02500
+104 Cornell Univ Cornell Baja Racing OK 4.16900
+25 College of New Jersey TCNJ Motorsports OK 5.83500
+89 The Ohio State University Baja Buckeyes OK 5.23100
+110 Pennsylvania College of Technology PCT Baja OK 4.87600
+67 Concordia University Concordia Baja Racing OK 4.92400
+65 Univ of Wisconsin - Platteville Pioneer Racing OK 4.88500
+103 Univ of Missouri Mizzou Baja Racing OK 4.97200
+118 West Virginia Univ Mountaineers OK 5.49400
+31 Univ of Maryland - College Park Terps Racing OK 4.59200
+103 Univ of Missouri Mizzou Baja Racing OK 5.00500
+107 Univ of Maryland - Baltimore County UMBC Racing OK 4.86100
+44 Manhattan College Manhattan College Jasper Racing OK 5.49600
+69 New York University NYU Tandon Motorsports OK 4.68400
+65 Univ of Wisconsin - Platteville Pioneer Racing OK 4.98300
+18 Ohio Northern Univ Polar Bear Racing OK 4.41400
+31 Univ of Maryland - College Park Terps Racing OK 4.40700
+69 New York University NYU Tandon Motorsports OK 4.64400
+66 Stevens Institute of Technology Dirty Ducks Racing OK 5.34400
+23 Univ of Arizona Baja Wildcat Racing OK 4.92200
+16 Virginia Tech VT Baja OK 4.77700
+23 Univ of Arizona Baja Wildcat Racing OK 4.99500
+66 Stevens Institute of Technology Dirty Ducks Racing OK 5.23800
+21 Univ of San Diego Torero Racing OK 6.34000
+38 Université Laval Alerion OK 4.21900
+82 Univ of Puerto Rico-Mayaquez RUM Racing Baja SAE OK 8.09700
+76 Montana State Univ - Bozeman Bobcat Motorsports OK 5.27300
+36 Univ of Iowa Iowa Baja Racing OK 5.02300
+21 Univ of San Diego Torero Racing OK 5.36300
+37 Rowan Univ Rowan Motorsports OK 5.73900
+45 George Washington Univ GW Baja OK 4.54600
+37 Rowan Univ Rowan Motorsports OK 5.82600
+83 California Polytechnic State Univ-SLO Cal Poly Racing OK 4.69800
+36 Univ of Iowa Iowa Baja Racing OK 4.84900
+29 IPN - UPIITA Ocelot Racing IPN-UPIITA OK 4.19700
+26 California State Univ - Los Angeles Rugged Eagle Motorsports OK 4.76400
+112 Kettering Univ Kettering Motorsports OK 6.32200
+64 Univ of Manitoba Red Lion Racing OK 4.88900
+45 George Washington Univ GW Baja OK 4.44200
+78 Union College Union College BAJA Racing OK 4.95900
+64 Univ of Manitoba Red Lion Racing OK 4.98900
+112 Kettering Univ Kettering Motorsports OK 6.41200
+82 Univ of Puerto Rico-Mayaquez RUM Racing Baja SAE OK 6.15100
+49 San Jose State University Spartan Racing OK 4.63400
+24 Northeastern Univ Skunkworks OK 4.64600
+94 SUNY Inst of Tech - Utica Wildcat Motorsports DQ 0.00000
+49 San Jose State University Spartan Racing OK 4.67300
+25 College of New Jersey TCNJ Motorsports OK 6.30200
+32 Purdue Univ - W Lafayette Purdue Baja Racing OK 4.81100
+Statistic Notes
+Raw Time: 3.98100 Fastest Units in Seconds
+Adjusted Time: (after penalties) 3.98100 Fastest / 6.32200 Slowest Units in Seconds
+Distance: 0.000 Shortest / 0.000 Longest / 100.000 Max Units in
+Penalty Time: 0.0 per / 0.0 per Units in Seconds
+Most Penalties per Run: 0 / 0
+Car Runs Completed: 7 with One Run / 68 with Two Runs
+Excess Time Threshold: (5.97150s) 1.5x Fastest Run
+Maneuv
+107 Univ of Maryland - Baltimore County UMBC Racing DQ 0.00000 0.00000 0
+16 Virginia Tech VT Baja DQ 0.00000 0.00000 0
+116 Purdue Univ - Northwest PNW Baja Motorsports DQ 0.00000 0.00000 0
+61 San Diego State Univ Aztec Baja Racing OK 87.84800 75.84800 6
+116 Purdue Univ - Northwest PNW Baja Motorsports DQ 0.00000 0.00000 0
+100 Lehigh Univ Lehigh Engineers DQ 0.00000 0.00000 0
+67 Concordia University Concordia Baja Racing OK 97.03400 83.03400 7
+127 Michigan State University MSU Baja Racing DQ 0.00000 0.00000 0
+87 Univ of Central Florida Knights Racing DQ 0.00000 0.00000 0
+38 Université Laval Alerion DQ 0.00000 0.00000 0
+67 Concordia University Concordia Baja Racing OK 88.29600 78.29600 5
+119 Georgia Institute of Technology GT Off-Road OK 97.36200 83.36200 7
+87 Univ of Central Florida Knights Racing OK 113.65900 101.65900 6
+68 Iowa State Univ Cyclone Off-Road Racing DQ 0.00000 0.00000 0
+127 Michigan State University MSU Baja Racing OK 86.07500 78.07500 4
+68 Iowa State Univ Cyclone Off-Road Racing DQ 0.00000 0.00000 0
+43 Univ of Nevada - Las Vegas Rebel Racing DQ 0.00000 0.00000 0
+125 Ecole de Technologie Superieure Baja ETS OK 63.19800 63.19800 0
+126 Univ of Illinois - Chicago UIC Motorsports DQ 0.00000 0.00000 0
+115 North Carolina A & T State Univ Aggie Racing DQ 0.00000 0.00000 0
+72 New Jersey Institute of Technology Highlander racing DQ 0.00000 0.00000 0
+84 Pittsburg State University Gorilla Racing DQ 0.00000 0.00000 0
+47 Univ of Tennessee -Chattanooga Racing Mocs OK 116.96100 82.96100 17
+55 Penn State Univ - Altoona Penn State Altoona Motorsports DQ 0.00000 0.00000 0
+84 Pittsburg State University Gorilla Racing DQ 0.00000 0.00000 0
+72 New Jersey Institute of Technology Highlander racing DQ 0.00000 0.00000 0
+55 Penn State Univ - Altoona Penn State Altoona Motorsports DQ 0.00000 0.00000 0
+126 Univ of Illinois - Chicago UIC Motorsports DQ 0.00000 0.00000 0
+56 Rochester Institute of Technology RIOT RACING DQ 0.00000 0.00000 0
+100 Lehigh Univ Lehigh Engineers DQ 0.00000 0.00000 0
+115 North Carolina A & T State Univ Aggie Racing DQ 0.00000 0.00000 0
+76 Montana State Univ - Bozeman Bobcat Motorsports DQ 0.00000 0.00000 0
+24 Northeastern Univ Skunkworks OK 90.53100 76.53100 7
+76 Montana State Univ - Bozeman Bobcat Motorsports DQ 0.00000 0.00000 0
+95 Univ of Missouri - Kansas City Roo Racing OK 86.86100 80.86100 3
+56 Rochester Institute of Technology RIOT RACING OK 74.21800 68.21800 3
+15 Univ of Rochester Yellowjacket Racing OK 97.83600 85.83600 6
+17 McMaster Univ McMaster Baja Racing OK 77.86500 69.86500 4
+24 Northeastern Univ Skunkworks OK 80.59900 72.59900 4
+15 Univ of Rochester Yellowjacket Racing OK 83.50200 79.50200 2
+40 Univ of Wisconsin - Madison Badger Racing OK 86.92600 82.92600 2
+105 Univ of Michigan - Ann Arbor Michigan Baja Racing OK 72.64300 66.64300 3
+95 Univ of Missouri - Kansas City Roo Racing OK 81.41500 71.41500 5
+17 McMaster Univ McMaster Baja Racing OK 66.26000 66.26000 0
+30 Queen's Univ Queen's Baja SAE OK 95.37100 85.37100 5
+121 Tennessee Tech Univ TnTech Baja DQ 0.00000 0.00000 0
+104 Cornell Univ Cornell Baja Racing DQ 0.00000 0.00000 0
+47 Univ of Tennessee -Chattanooga Racing Mocs OK 106.34900 90.34900 8
+104 Cornell Univ Cornell Baja Racing OK 66.82900 64.82900 1
+123 North Carolina State Univ - Raleigh Pack Motorsports OK 85.62000 67.62000 9
+59 Georgia Southern Univ Eagle Motorsports OK 78.37000 70.37000 4
+107 Univ of Maryland - Baltimore County UMBC Racing DQ 0.00000 0.00000 0
+40 Univ of Wisconsin - Madison Badger Racing OK 108.63100 98.63100 5
+59 Georgia Southern Univ Eagle Motorsports DQ 0.00000 0.00000 0
+30 Queen's Univ Queen's Baja SAE OK 88.16400 74.16400 7
+38 Université Laval Alerion OK 72.88200 66.88200 3
+123 North Carolina State Univ - Raleigh Pack Motorsports DQ 0.00000 0.00000 0
+120 Youngstown State Univ penguin baja racing DQ 0.00000 0.00000 0
+105 Univ of Michigan - Ann Arbor Michigan Baja Racing OK 74.77900 70.77900 2
+93 Univ of Akron Zips Baja OK 68.57000 68.57000 0
+83 California Polytechnic State Univ-SLO Cal Poly Racing OK 76.91000 70.91000 3
+120 Youngstown State Univ penguin baja racing OK 86.76500 74.76500 6
+93 Univ of Akron Zips Baja OK 66.38400 64.38400 1
+83 California Polytechnic State Univ-SLO Cal Poly Racing OK 73.40200 69.40200 2
+79 Grove City College Grove City Racing DQ 0.00000 0.00000 0
+94 SUNY Inst of Tech - Utica Wildcat Motorsports OK 112.60100 102.60100 5
+35 Case Western Reserve Univ CWRU Motorsports OK 79.81100 73.81100 3
+80 Quinnipiac College Bobcat Racing OK 101.62300 93.62300 4
+34 McGill Univ McGill Baja Racing DQ 0.00000 0.00000 0
+102 Universidade de Santa Cruz do Sul Baja de GalpÃ£o - UNISC OK 69.96100 63.96100 3
+31 Univ of Maryland - College Park Terps Racing DQ 0.00000 0.00000 0
+16 Virginia Tech VT Baja OK 79.72800 73.72800 3
+79 Grove City College Grove City Racing OK 89.45900 87.45900 1
+118 West Virginia Univ Mountaineers DQ 0.00000 0.00000 0
+80 Quinnipiac College Bobcat Racing OK 98.28400 86.28400 6
+34 McGill Univ McGill Baja Racing OK 73.43700 71.43700 1
+102 Universidade de Santa Cruz do Sul Baja de GalpÃ£o - UNISC DQ 0.00000 0.00000 0
+31 Univ of Maryland - College Park Terps Racing OK 93.41600 89.41600 2
+121 Tennessee Tech Univ TnTech Baja OK 85.52600 69.52600 8
+73 California State Univ- Chico Wildcat racing OK 90.83900 70.83900 10
+86 Kansas State Univ Wildcat Offroad OK 84.32600 74.32600 5
+110 Pennsylvania College of Technology PCT Baja OK 69.16200 65.16200 2
+19 Johns Hopkins Univ Blue Jay Racing OK 95.56600 79.56600 8
+96 Centro Universitario Da FEI FEI Baja OK 67.24800 63.24800 2
+62 Cleveland State Univ Vikings Racing OK 79.81500 65.81500 7
+19 Johns Hopkins Univ Blue Jay Racing DQ 0.00000 0.00000 0
+32 Purdue Univ - W Lafayette Purdue Baja Racing OK 73.70000 67.70000 3
+62 Cleveland State Univ Vikings Racing OK 74.66800 64.66800 5
+86 Kansas State Univ Wildcat Offroad DQ 0.00000 0.00000 0
+35 Case Western Reserve Univ CWRU Motorsports DQ 0.00000 0.00000 0
+75 Univ of Illinois - Urbana Champaign Off-Road Illini Baja SAE DQ 0.00000 0.00000 0
+119 Georgia Institute of Technology GT Off-Road OK 80.68200 76.68200 2
+65 Univ of Wisconsin - Platteville Pioneer Racing DQ 0.00000 0.00000 0
+96 Centro Universitario Da FEI FEI Baja OK 61.91100 61.91100 0
+32 Purdue Univ - W Lafayette Purdue Baja Racing OK 70.44800 64.44800 3
+110 Pennsylvania College of Technology PCT Baja OK 72.90000 62.90000 5
+29 IPN - UPIITA Ocelot Racing IPN-UPIITA DQ 0.00000 0.00000 0
+23 Univ of Arizona Baja Wildcat Racing DQ 0.00000 0.00000 0
+25 College of New Jersey TCNJ Motorsports DQ 0.00000 0.00000 0
+73 California State Univ- Chico Wildcat racing DQ 0.00000 0.00000 0
+89 The Ohio State University Baja Buckeyes DQ 0.00000 0.00000 0
+37 Rowan Univ Rowan Motorsports OK 99.19300 91.19300 4
+69 New York University NYU Tandon Motorsports OK 84.16000 74.16000 5
+18 Ohio Northern Univ Polar Bear Racing OK 86.87000 70.87000 8
+36 Univ of Iowa Iowa Baja Racing DQ 0.00000 0.00000 0
+28 Clarkson University Golden Knights Racing OK 94.22200 88.22200 3
+43 Univ of Nevada - Las Vegas Rebel Racing OK 82.52100 74.52100 4
+26 California State Univ - Los Angeles Rugged Eagle Motorsports DQ 0.00000 0.00000 0
+89 The Ohio State University Baja Buckeyes OK 81.90400 75.90400 3
+23 Univ of Arizona Baja Wildcat Racing DQ 0.00000 0.00000 0
+44 Manhattan College Manhattan College Jasper Racing DQ 0.00000 0.00000 0
+75 Univ of Illinois - Urbana Champaign Off-Road Illini Baja SAE OK 81.42000 71.42000 5
+25 College of New Jersey TCNJ Motorsports OK 87.28600 79.28600 4
+37 Rowan Univ Rowan Motorsports OK 93.61800 83.61800 5
+28 Clarkson University Golden Knights Racing OK 82.50100 78.50100 2
+65 Univ of Wisconsin - Platteville Pioneer Racing OK 138.80700 120.80700 9
+69 New York University NYU Tandon Motorsports DQ 0.00000 0.00000 0
+29 IPN - UPIITA Ocelot Racing IPN-UPIITA DQ 0.00000 0.00000 0
+18 Ohio Northern Univ Polar Bear Racing OK 74.18600 66.18600 4
+45 George Washington Univ GW Baja DQ 0.00000 0.00000 0
+103 Univ of Missouri Mizzou Baja Racing DQ 0.00000 0.00000 0
+90 Fairfield Univ Fairfield University Baja OK 161.54900 133.54900 14
+82 Univ of Puerto Rico-Mayaquez RUM Racing Baja SAE OK 136.36100 136.36100 0
+61 San Diego State Univ Aztec Baja Racing OK 93.96300 67.96300 13
+39 California State Poly Univ - Pomona Bronco Racing DQ 0.00000 0.00000 0
+52 Miami Univ Redhawk Racing DQ 0.00000 0.00000 0
+45 George Washington Univ GW Baja DQ 0.00000 0.00000 0
+21 Univ of San Diego Torero Racing DQ 0.00000 0.00000 0
+64 Univ of Manitoba Red Lion Racing DQ 0.00000 0.00000 0
+66 Stevens Institute of Technology Dirty Ducks Racing DQ 0.00000 0.00000 0
+125 Ecole de Technologie Superieure Baja ETS OK 62.11800 60.11800 1
+103 Univ of Missouri Mizzou Baja Racing OK 116.67900 100.67900 8
+49 San Jose State University Spartan Racing DQ 0.00000 0.00000 0
+112 Kettering Univ Kettering Motorsports DQ 0.00000 0.00000 0
+64 Univ of Manitoba Red Lion Racing OK 121.68000 99.68000 11
+26 California State Univ - Los Angeles Rugged Eagle Motorsports DQ 0.00000 0.00000 0
+52 Miami Univ Redhawk Racing DQ 0.00000 0.00000 0
+44 Manhattan College Manhattan College Jasper Racing DQ 0.00000 0.00000 0
+36 Univ of Iowa Iowa Baja Racing OK 97.00700 89.00700 4
+78 Union College Union College BAJA Racing DQ 0.00000 0.00000 0
+82 Univ of Puerto Rico-Mayaquez RUM Racing Baja SAE DQ 0.00000 0.00000 0
+94 SUNY Inst of Tech - Utica Wildcat Motorsports OK 96.81100 78.81100 9
+78 Union College Union College BAJA Racing DQ 0.00000 0.00000 0
+49 San Jose State University Spartan Racing OK 92.84800 82.84800 5
+21 Univ of San Diego Torero Racing OK 136.18800 110.18800 13
+Statistic Notes
+Raw Time: 61.91100 Fastest Units in Seconds
+Adjusted Time: (after penalties) 61.91100 Fastest / 161.54900 Slowest Units in Seconds
+Distance: 0.000 Shortest / 0.000 Longest / 0.000 Max Units in
+Penalty Time: 10.0 per NoStop / 2.0 per Cones Units in Seconds
+Most Penalties per Run: 0 NoStop / 17 Cones
+Car Runs Completed: 31 with One Run / 23 with Two Runs
+Excess Time Threshold: (154.77750s) 2.5x Fastest Run
+Sled
+119 Georgia Institute of Technology GT Off-Road OK 5.99800 77.00 In
+65 Univ of Wisconsin - Platteville Pioneer Racing OK 0.00000 21.50 In
+86 Kansas State Univ Wildcat Offroad OK 0.00000 60.00 In
+68 Iowa State Univ Cyclone Off-Road Racing OK 0.00000 76.00 In
+34 McGill Univ McGill Baja Racing OK 0.00000 56.00 In
+68 Iowa State Univ Cyclone Off-Road Racing OK 0.00000 71.50 In
+38 Université Laval Alerion OK 8.99700 77.00 In
+87 Univ of Central Florida Knights Racing OK 0.00000 9.75 In
+17 McMaster Univ McMaster Baja Racing OK 0.00000 31.20 In
+119 Georgia Institute of Technology GT Off-Road OK 7.08000 77.00 In
+87 Univ of Central Florida Knights Racing OK 5.33200 77.00 In
+38 Université Laval Alerion OK 0.00000 75.00 In
+67 Concordia University Concordia Baja Racing OK 0.00000 10.00 In
+110 Pennsylvania College of Technology PCT Baja OK 0.00000 19.70 In
+75 Univ of Illinois - Urbana Champaign Off-Road Illini Baja SAE OK 0.00000 0.00 In
+93 Univ of Akron Zips Baja OK 8.02300 77.00 In
+56 Rochester Institute of Technology RIOT RACING OK 5.86500 77.00 In
+105 Univ of Michigan - Ann Arbor Michigan Baja Racing OK 0.00000 68.50 In
+110 Pennsylvania College of Technology PCT Baja OK 0.00000 7.75 In
+43 Univ of Nevada - Las Vegas Rebel Racing OK 0.00000 30.50 In
+34 McGill Univ McGill Baja Racing OK 0.00000 17.00 In
+126 Univ of Illinois - Chicago UIC Motorsports OK 0.00000 3.25 In
+93 Univ of Akron Zips Baja OK 0.00000 72.00 In
+56 Rochester Institute of Technology RIOT RACING OK 5.65600 77.00 In
+104 Cornell Univ Cornell Baja Racing OK 0.00000 2.50 In
+59 Georgia Southern Univ Eagle Motorsports OK 0.00000 26.20 In
+95 Univ of Missouri - Kansas City Roo Racing OK 0.00000 8.75 In
+84 Pittsburg State University Gorilla Racing OK 0.00000 51.20 In
+115 North Carolina A & T State Univ Aggie Racing OK 0.00000 57.20 In
+30 Queen's Univ Queen's Baja SAE OK 0.00000 72.70 In
+40 Univ of Wisconsin - Madison Badger Racing OK 0.00000 35.70 In
+17 McMaster Univ McMaster Baja Racing OK 0.00000 15.20 In
+61 San Diego State Univ Aztec Baja Racing OK 0.00000 64.70 In
+76 Montana State Univ - Bozeman Bobcat Motorsports OK 5.53200 77.00 In
+59 Georgia Southern Univ Eagle Motorsports OK 0.00000 1.50 In
+121 Tennessee Tech Univ TnTech Baja OK 0.00000 6.00 In
+61 San Diego State Univ Aztec Baja Racing OK 0.00000 56.50 In
+40 Univ of Wisconsin - Madison Badger Racing OK 0.00000 36.50 In
+84 Pittsburg State University Gorilla Racing OK 0.00000 48.20 In
+95 Univ of Missouri - Kansas City Roo Racing OK 0.00000 62.70 In
+30 Queen's Univ Queen's Baja SAE OK 0.00000 56.70 In
+104 Cornell Univ Cornell Baja Racing OK 0.00000 10.20 In
+102 Universidade de Santa Cruz do Sul Baja de GalpÃ£o - UNISC OK 0.00000 34.20 In
+107 Univ of Maryland - Baltimore County UMBC Racing OK 0.00000 65.50 In
+126 Univ of Illinois - Chicago UIC Motorsports OK 0.00000 3.25 In
+86 Kansas State Univ Wildcat Offroad OK 0.00000 61.00 In
+16 Virginia Tech VT Baja OK 0.00000 6.25 In
+100 Lehigh Univ Lehigh Engineers OK 0.00000 72.50 In
+24 Northeastern Univ Skunkworks OK 0.00000 73.20 In
+28 Clarkson University Golden Knights Racing OK 0.00000 4.25 In
+18 Ohio Northern Univ Polar Bear Racing OK 0.00000 1.75 In
+35 Case Western Reserve Univ CWRU Motorsports OK 0.00000 4.75 In
+121 Tennessee Tech Univ TnTech Baja OK 0.00000 5.25 In
+116 Purdue Univ - Northwest PNW Baja Motorsports OK 0.00000 64.20 In
+16 Virginia Tech VT Baja OK 0.00000 1.25 In
+19 Johns Hopkins Univ Blue Jay Racing OK 0.00000 38.20 In
+79 Grove City College Grove City Racing OK 0.00000 0.00 In
+90 Fairfield Univ Fairfield University Baja OK 0.00000 0.50 In
+65 Univ of Wisconsin - Platteville Pioneer Racing OK 0.00000 13.50 In
+100 Lehigh Univ Lehigh Engineers OK 0.00000 66.00 In
+105 Univ of Michigan - Ann Arbor Michigan Baja Racing OK 0.00000 64.00 In
+116 Purdue Univ - Northwest PNW Baja Motorsports OK 0.00000 68.00 In
+120 Youngstown State Univ penguin baja racing OK 0.00000 60.20 In
+94 SUNY Inst of Tech - Utica Wildcat Motorsports OK 0.00000 37.50 In
+107 Univ of Maryland - Baltimore County UMBC Racing OK 0.00000 58.20 In
+29 IPN - UPIITA Ocelot Racing IPN-UPIITA OK 0.00000 52.00 In
+73 California State Univ- Chico Wildcat racing OK 0.00000 28.00 In
+80 Quinnipiac College Bobcat Racing OK 5.39800 77.00 In
+127 Michigan State University MSU Baja Racing OK 0.00000 0.00 In
+32 Purdue Univ - W Lafayette Purdue Baja Racing OK 0.00000 35.20 In
+35 Case Western Reserve Univ CWRU Motorsports OK 0.00000 5.50 In
+18 Ohio Northern Univ Polar Bear Racing OK 0.00000 38.00 In
+125 Ecole de Technologie Superieure Baja ETS OK 0.00000 4.75 In
+89 The Ohio State University Baja Buckeyes OK 0.00000 74.00 In
+25 College of New Jersey TCNJ Motorsports OK 0.00000 1.50 In
+23 Univ of Arizona Baja Wildcat Racing OK 0.00000 1.50 In
+80 Quinnipiac College Bobcat Racing OK 5.13900 77.00 In
+29 IPN - UPIITA Ocelot Racing IPN-UPIITA OK 0.00000 63.20 In
+32 Purdue Univ - W Lafayette Purdue Baja Racing OK 0.00000 37.00 In
+19 Johns Hopkins Univ Blue Jay Racing OK 0.00000 62.50 In
+89 The Ohio State University Baja Buckeyes OK 6.93900 77.00 In
+62 Cleveland State Univ Vikings Racing OK 0.00000 11.20 In
+79 Grove City College Grove City Racing OK 0.00000 14.70 In
+118 West Virginia Univ Mountaineers OK 0.00000 5.00 In
+36 Univ of Iowa Iowa Baja Racing OK 0.00000 0.50 In
+62 Cleveland State Univ Vikings Racing OK 0.00000 16.20 In
+55 Penn State Univ - Altoona Penn State Altoona Motorsports OK 0.00000 39.70 In
+83 California Polytechnic State Univ-SLO Cal Poly Racing OK 0.00000 39.20 In
+102 Universidade de Santa Cruz do Sul Baja de GalpÃ£o - UNISC OK 0.00000 23.50 In
+96 Centro Universitario Da FEI FEI Baja OK 0.00000 25.00 In
+76 Montana State Univ - Bozeman Bobcat Motorsports OK 5.92300 77.00 In
+55 Penn State Univ - Altoona Penn State Altoona Motorsports OK 0.00000 37.50 In
+52 Miami Univ Redhawk Racing OK 0.00000 15.20 In
+39 California State Poly Univ - Pomona Bronco Racing OK 0.00000 0.75 In
+96 Centro Universitario Da FEI FEI Baja OK 0.00000 16.50 In
+67 Concordia University Concordia Baja Racing OK 0.00000 1.00 In
+36 Univ of Iowa Iowa Baja Racing OK 0.00000 2.50 In
+47 Univ of Tennessee -Chattanooga Racing Mocs OK 0.00000 0.00 In
+127 Michigan State University MSU Baja Racing OK 0.00000 0.50 In
+52 Miami Univ Redhawk Racing OK 0.00000 19.20 In
+15 Univ of Rochester Yellowjacket Racing OK 0.00000 31.70 In
+15 Univ of Rochester Yellowjacket Racing OK 0.00000 47.70 In
+123 North Carolina State Univ - Raleigh Pack Motorsports OK 0.00000 23.50 In
+37 Rowan Univ Rowan Motorsports OK 0.00000 1.25 In
+123 North Carolina State Univ - Raleigh Pack Motorsports OK 0.00000 30.70 In
+26 California State Univ - Los Angeles Rugged Eagle Motorsports OK 0.00000 6.25 In
+37 Rowan Univ Rowan Motorsports OK 0.00000 54.00 In
+44 Manhattan College Manhattan College Jasper Racing OK 0.00000 0.00 In
+28 Clarkson University Golden Knights Racing OK 0.00000 3.70 In
+83 California Polytechnic State Univ-SLO Cal Poly Racing OK 0.00000 35.20 In
+31 Univ of Maryland - College Park Terps Racing OK 0.00000 46.50 In
+44 Manhattan College Manhattan College Jasper Racing OK 0.00000 6.00 In
+66 Stevens Institute of Technology Dirty Ducks Racing OK 0.00000 16.20 In
+125 Ecole de Technologie Superieure Baja ETS OK 0.00000 11.20 In
+21 Univ of San Diego Torero Racing OK 0.00000 17.00 In
+64 Univ of Manitoba Red Lion Racing OK 0.00000 66.70 In
+82 Univ of Puerto Rico-Mayaquez RUM Racing Baja SAE OK 0.00000 2.25 In
+31 Univ of Maryland - College Park Terps Racing OK 0.00000 32.50 In
+21 Univ of San Diego Torero Racing OK 0.00000 20.00 In
+64 Univ of Manitoba Red Lion Racing OK 0.00000 67.50 In
+24 Northeastern Univ Skunkworks OK 0.00000 64.70 In
+23 Univ of Arizona Baja Wildcat Racing OK 0.00000 0.50 In
+49 San Jose State University Spartan Racing OK 0.00000 4.50 In
+25 College of New Jersey TCNJ Motorsports OK 0.00000 0.00 In
+120 Youngstown State Univ penguin baja racing OK 0.00000 22.70 In
+78 Union College Union College BAJA Racing OK 0.00000 38.50 In
+115 North Carolina A & T State Univ Aggie Racing OK 0.00000 32.50 In
+26 California State Univ - Los Angeles Rugged Eagle Motorsports OK 0.00000 3.75 In
+103 Univ of Missouri Mizzou Baja Racing OK 0.00000 57.20 In
+69 New York University NYU Tandon Motorsports OK 0.00000 3.50 In
+103 Univ of Missouri Mizzou Baja Racing OK 0.00000 56.70 In
+90 Fairfield Univ Fairfield University Baja OK 0.00000 0.00 In
+Statistic Notes
+Raw Time: 5.13900 Fastest Units in Seconds
+Adjusted Time: (after penalties) 5.13900 Fastest / 8.99700 Slowest Units in Seconds
+Distance: 0.000 Shortest / 77.000 Longest / 77.000 Max Units in In
+Penalty Time: 0.0 per / 0.0 per Units in Seconds
+Most Penalties per Run: 0 / 0
+Car Runs Completed: 12 with One Run / 60 with Two Runs
+Excess Time Threshold: (12.84750s) 2.5x Fastest Run
+Sus
+100 Lehigh Univ Lehigh Engineers OK 0.00000 22.21600 6 Gates
+119 Georgia Institute of Technology GT Off-Road OK 0.00000 47.46600 8 Gates
+119 Georgia Institute of Technology GT Off-Road OK 0.00000 0.00000 6 Gates
+87 Univ of Central Florida Knights Racing OK 0.00000 36.67100 10 Gates
+126 Univ of Illinois - Chicago UIC Motorsports OK 0.00000 52.38200 1 Gates
+87 Univ of Central Florida Knights Racing OK 66.10400 66.10400 12 Gates
+126 Univ of Illinois - Chicago UIC Motorsports OK 0.00000 11.78600 1 Gates
+115 North Carolina A & T State Univ Aggie Racing OK 55.44300 55.44300 12 Gates
+100 Lehigh Univ Lehigh Engineers OK 0.00000 47.35700 10 Gates
+61 San Diego State Univ Aztec Baja Racing OK 45.00700 45.00700 12 Gates
+76 Montana State Univ - Bozeman Bobcat Motorsports OK 0.00000 51.84400 9 Gates
+76 Montana State Univ - Bozeman Bobcat Motorsports OK 0.00000 0.00000 3 Gates
+125 Ecole de Technologie Superieure Baja ETS OK 0.00000 9.06000 3 Gates
+107 Univ of Maryland - Baltimore County UMBC Racing OK 0.00000 22.30500 1 Gates
+107 Univ of Maryland - Baltimore County UMBC Racing OK 0.00000 37.20900 6 Gates
+125 Ecole de Technologie Superieure Baja ETS OK 0.00000 30.50200 6 Gates
+84 Pittsburg State University Gorilla Racing OK 0.00000 12.26200 3 Gates
+24 Northeastern Univ Skunkworks OK 0.00000 0.00000 6 Gates
+84 Pittsburg State University Gorilla Racing OK 0.00000 13.21300 1 Gates
+55 Penn State Univ - Altoona Penn State Altoona Motorsports OK 0.00000 2.44600 3 Gates
+127 Michigan State University MSU Baja Racing OK 0.00000 28.94500 3 Gates
+118 West Virginia Univ Mountaineers OK 0.00000 0.00000 3 Gates
+127 Michigan State University MSU Baja Racing OK 0.00000 19.81200 3 Gates
+38 Université Laval Alerion OK 0.00000 22.15400 6 Gates
+24 Northeastern Univ Skunkworks OK 0.00000 21.60900 3 Gates
+95 Univ of Missouri - Kansas City Roo Racing OK 0.00000 11.40000 3 Gates
+94 SUNY Inst of Tech - Utica Wildcat Motorsports OK 45.35700 45.35700 12 Gates
+38 Université Laval Alerion OK 47.80700 47.80700 12 Gates
+30 Queen's Univ Queen's Baja SAE OK 0.00000 31.48600 6 Gates
+30 Queen's Univ Queen's Baja SAE OK 0.00000 10.32800 3 Gates
+19 Johns Hopkins Univ Blue Jay Racing OK 0.00000 9.30000 3 Gates
+104 Cornell Univ Cornell Baja Racing OK 0.00000 21.93200 6 Gates
+17 McMaster Univ McMaster Baja Racing OK 0.00000 11.03400 1 Gates
+62 Cleveland State Univ Vikings Racing OK 0.00000 38.53500 8 Gates
+19 Johns Hopkins Univ Blue Jay Racing OK 0.00000 24.86000 6 Gates
+79 Grove City College Grove City Racing OK 0.00000 0.00000 6 Gates
+61 San Diego State Univ Aztec Baja Racing OK 38.59200 38.59200 12 Gates
+121 Tennessee Tech Univ TnTech Baja OK 0.00000 0.00000 6 Gates
+67 Concordia University Concordia Baja Racing OK 41.55000 41.55000 12 Gates
+62 Cleveland State Univ Vikings Racing OK 0.00000 12.58200 3 Gates
+55 Penn State Univ - Altoona Penn State Altoona Motorsports OK 0.00000 0.00000 1 Gates
+16 Virginia Tech VT Baja OK 0.00000 12.95300 4 Gates
+56 Rochester Institute of Technology RIOT RACING OK 39.26800 39.26800 12 Gates
+40 Univ of Wisconsin - Madison Badger Racing OK 49.57100 49.57100 12 Gates
+105 Univ of Michigan - Ann Arbor Michigan Baja Racing OK 0.00000 23.04900 6 Gates
+65 Univ of Wisconsin - Platteville Pioneer Racing OK 0.00000 13.85200 1 Gates
+79 Grove City College Grove City Racing OK 0.00000 16.48900 3 Gates
+123 North Carolina State Univ - Raleigh Pack Motorsports OK 0.00000 8.24300 1 Gates
+65 Univ of Wisconsin - Platteville Pioneer Racing OK 0.00000 0.00000 2 Gates
+34 McGill Univ McGill Baja Racing OK 62.20800 62.20800 12 Gates
+17 McMaster Univ McMaster Baja Racing OK 0.00000 20.70700 3 Gates
+47 Univ of Tennessee -Chattanooga Racing Mocs OK 0.00000 18.36600 1 Gates
+120 Youngstown State Univ penguin baja racing OK 0.00000 44.50800 6 Gates
+80 Quinnipiac College Bobcat Racing OK 0.00000 55.71600 4 Gates
+110 Pennsylvania College of Technology PCT Baja OK 0.00000 12.91900 3 Gates
+47 Univ of Tennessee -Chattanooga Racing Mocs OK 0.00000 13.58600 1 Gates
+110 Pennsylvania College of Technology PCT Baja OK 0.00000 17.35700 4 Gates
+32 Purdue Univ - W Lafayette Purdue Baja Racing OK 42.67700 42.67700 12 Gates
+32 Purdue Univ - W Lafayette Purdue Baja Racing OK 0.00000 8.16500 3 Gates
+56 Rochester Institute of Technology RIOT RACING OK 0.00000 26.27300 6 Gates
+121 Tennessee Tech Univ TnTech Baja OK 0.00000 10.67200 1 Gates
+95 Univ of Missouri - Kansas City Roo Racing OK 0.00000 54.37200 10 Gates
+104 Cornell Univ Cornell Baja Racing OK 43.85900 43.85900 12 Gates
+120 Youngstown State Univ penguin baja racing OK 0.00000 9.55200 3 Gates
+59 Georgia Southern Univ Eagle Motorsports OK 0.00000 26.65700 6 Gates
+16 Virginia Tech VT Baja OK 0.00000 19.90900 6 Gates
+35 Case Western Reserve Univ CWRU Motorsports OK 0.00000 19.83500 4 Gates
+15 Univ of Rochester Yellowjacket Racing OK 0.00000 36.69300 6 Gates
+83 California Polytechnic State Univ-SLO Cal Poly Racing OK 46.38300 46.38300 12 Gates
+68 Iowa State Univ Cyclone Off-Road Racing OK 0.00000 0.00000 1 Gates
+73 California State Univ- Chico Wildcat racing OK 0.00000 12.55400 3 Gates
+96 Centro Universitario Da FEI FEI Baja OK 39.60700 39.60700 12 Gates
+93 Univ of Akron Zips Baja OK 0.00000 39.65400 10 Gates
+68 Iowa State Univ Cyclone Off-Road Racing OK 0.00000 20.84200 4 Gates
+89 The Ohio State University Baja Buckeyes OK 59.05100 59.05100 12 Gates
+102 Universidade de Santa Cruz do Sul Baja de GalpÃ£o - UNISC OK 0.00000 0.00000 1 Gates
+59 Georgia Southern Univ Eagle Motorsports OK 0.00000 36.00800 5 Gates
+96 Centro Universitario Da FEI FEI Baja OK 0.00000 17.95100 6 Gates
+93 Univ of Akron Zips Baja OK 0.00000 19.68900 4 Gates
+40 Univ of Wisconsin - Madison Badger Racing OK 43.22400 43.22400 12 Gates
+102 Universidade de Santa Cruz do Sul Baja de GalpÃ£o - UNISC OK 0.00000 9.53900 3 Gates
+31 Univ of Maryland - College Park Terps Racing OK 0.00000 11.06100 3 Gates
+86 Kansas State Univ Wildcat Offroad OK 0.00000 12.22600 1 Gates
+43 Univ of Nevada - Las Vegas Rebel Racing OK 0.00000 15.81900 4 Gates
+105 Univ of Michigan - Ann Arbor Michigan Baja Racing OK 0.00000 29.09500 6 Gates
+86 Kansas State Univ Wildcat Offroad OK 46.79900 46.79900 12 Gates
+75 Univ of Illinois - Urbana Champaign Off-Road Illini Baja SAE OK 0.00000 16.87800 1 Gates
+25 College of New Jersey TCNJ Motorsports OK 0.00000 10.98400 3 Gates
+69 New York University NYU Tandon Motorsports OK 0.00000 9.39600 3 Gates
+25 College of New Jersey TCNJ Motorsports OK 0.00000 30.52700 6 Gates
+90 Fairfield Univ Fairfield University Baja OK 0.00000 36.20000 6 Gates
+23 Univ of Arizona Baja Wildcat Racing OK 0.00000 0.00000 4 Gates
+35 Case Western Reserve Univ CWRU Motorsports OK 0.00000 139.30300 3 Gates
+34 McGill Univ McGill Baja Racing OK 0.00000 18.12100 3 Gates
+23 Univ of Arizona Baja Wildcat Racing OK 0.00000 17.38700 3 Gates
+45 George Washington Univ GW Baja OK 0.00000 10.90600 4 Gates
+37 Rowan Univ Rowan Motorsports OK 49.12200 49.12200 12 Gates
+82 Univ of Puerto Rico-Mayaquez RUM Racing Baja SAE OK 0.00000 0.00000 1 Gates
+90 Fairfield Univ Fairfield University Baja OK 0.00000 12.74600 3 Gates
+29 IPN - UPIITA Ocelot Racing IPN-UPIITA OK 0.00000 25.15300 6 Gates
+28 Clarkson University Golden Knights Racing OK 0.00000 27.38200 6 Gates
+83 California Polytechnic State Univ-SLO Cal Poly Racing OK 0.00000 33.48700 6 Gates
+37 Rowan Univ Rowan Motorsports OK 0.00000 43.50400 10 Gates
+82 Univ of Puerto Rico-Mayaquez RUM Racing Baja SAE OK 0.00000 12.24200 1 Gates
+31 Univ of Maryland - College Park Terps Racing OK 0.00000 26.94100 6 Gates
+18 Ohio Northern Univ Polar Bear Racing OK 0.00000 32.61900 5 Gates
+28 Clarkson University Golden Knights Racing OK 43.62800 43.62800 12 Gates
+21 Univ of San Diego Torero Racing OK 0.00000 43.75700 5 Gates
+43 Univ of Nevada - Las Vegas Rebel Racing OK 0.00000 20.94600 6 Gates
+66 Stevens Institute of Technology Dirty Ducks Racing OK 0.00000 50.13100 9 Gates
+73 California State Univ- Chico Wildcat racing OK 46.70500 46.70500 12 Gates
+49 San Jose State University Spartan Racing OK 51.53200 51.53200 12 Gates
+64 Univ of Manitoba Red Lion Racing OK 0.00000 15.79500 3 Gates
+112 Kettering Univ Kettering Motorsports OK 0.00000 17.60900 2 Gates
+18 Ohio Northern Univ Polar Bear Racing OK 0.00000 14.05900 3 Gates
+39 California State Poly Univ - Pomona Bronco Racing OK 0.00000 23.10300 6 Gates
+64 Univ of Manitoba Red Lion Racing OK 0.00000 9.08700 1 Gates
+36 Univ of Iowa Iowa Baja Racing OK 51.86100 46.86100 12 Gates
+36 Univ of Iowa Iowa Baja Racing OK 0.00000 19.30000 6 Gates
+26 California State Univ - Los Angeles Rugged Eagle Motorsports OK 0.00000 12.37400 3 Gates
+52 Miami Univ Redhawk Racing OK 0.00000 25.04100 6 Gates
+112 Kettering Univ Kettering Motorsports OK 0.00000 0.00000 3 Gates
+39 California State Poly Univ - Pomona Bronco Racing OK 0.00000 39.79400 7 Gates
+Statistic Notes
+Raw Time: 38.59200 Fastest Units in Seconds
+Adjusted Time: (after penalties) 38.59200 Fastest / 66.10400 Slowest Units in Seconds
+Distance: 1.000 Shortest / 12.000 Longest / 12.000 Max Units in Gates
+Penalty Time: 5.0 per NoStop / 5.0 per NoStop Units in Seconds
+Most Penalties per Run: 0 NoStop / 1 NoStop
+Car Runs Completed: 17 with One Run / 53 with Two Runs
+Excess Time Threshold: (96.48000s) 2.5x Fastest Run
+Endurance
+1 110 Pennsylvania College of Technology PCT Baja 57 4:35.745 (at 13:25:10.903) 3:47.444 (lap 41) 4:13.940
+2 102 Universidade de Santa Cruz do Sul Baja de GalpÃ£o - UNISC 56 4:22.764 (at 13:25:57.229) 3:54.605 (lap 27) 4:19.266
+3 56 Rochester Institute of Technology RIOT RACING 55 4:08.058 (at 13:27:02.033) 3:59.543 (lap 20) 4:21.988
+4 125 Ecole de Technologie Superieure Baja ETS 55 4:11.455 (at 13:25:57.559) 3:50.194 (lap 18) 4:23.905
+5 105 Univ of Michigan - Ann Arbor Michigan Baja Racing 55 4:44.872 (at 13:26:30.383) 3:53.205 (lap 30) 4:24.830
+6 67 Concordia University Concordia Baja Racing 53 4:47.155 (at 13:25:50.481) 3:56.772 (lap 12) 4:32.677
+7 68 Iowa State Univ Cyclone Off-Road Racing 52 4:30.188 (at 13:27:50.065) 3:58.945 (lap 23) 4:40.267
+8 43 Univ of Nevada - Las Vegas Rebel Racing 49 4:39.889 (at 13:25:14.331) 3:58.955 (lap 15) 4:55.714
+9 96 Centro Universitario Da FEI FEI Baja 48 4:20.643 (at 13:18:19.246) 3:54.420 (lap 19) 4:49.874
+10 61 San Diego State Univ Aztec Baja Racing 48 4:28.032 (at 13:26:41.461) 3:53.416 (lap 18) 5:03.817
+11 32 Purdue Univ - W Lafayette Purdue Baja Racing 47 4:37.883 (at 13:25:51.615) 3:49.361 (lap 29) 5:07.526
+12 104 Cornell Univ Cornell Baja Racing 47 5:47.368 (at 13:27:23.257) 3:41.630 (lap 26) 5:12.070
+13 38 Université Laval Alerion 47 4:34.998 (at 13:28:31.560) 4:07.898 (lap 21) 5:13.014
+14 115 North Carolina A & T State Univ Aggie Racing 46 5:16.919 (at 13:26:17.761) 4:32.440 (lap 14) 5:11.929
+15 100 Lehigh Univ Lehigh Engineers 46  
+16 34 McGill Univ McGill Baja Racing 45 4:28.606 (at 13:26:58.062) 3:59.046 (lap 23) 5:23.700
+17 94 SUNY Inst of Tech - Utica Wildcat Motorsports 44 5:43.417 (at 13:22:28.686) 4:22.884 (lap 8) 5:20.116
+18 76 Montana State Univ - Bozeman Bobcat Motorsports 44 4:54.758 (at 13:25:24.320) 4:19.765 (lap 13) 5:25.614
+19 79 Grove City College Grove City Racing 44 4:35.774 (at 13:27:54.518) 4:23.006 (lap 14) 5:28.648
+20 40 Univ of Wisconsin - Madison Badger Racing 44 5:32.376 (at 13:29:15.579) 3:58.628 (lap 8) 5:35.681
+21 121 Tennessee Tech Univ TnTech Baja 43 4:35.931 (at 13:28:38.875) 4:05.864 (lap 16) 5:42.157
+22 24 Northeastern Univ Skunkworks 42 17:02.865 (at 13:14:00.105) 4:03.434 (lap 23) 5:27.955
+23 30 Queen's Univ Queen's Baja SAE 42 4:24.051 (at 13:27:34.109) 4:05.650 (lap 13) 5:48.162
+24 17 McMaster Univ McMaster Baja Racing 42 4:42.099 (at 13:27:36.561) 4:21.851 (lap 17) 5:49.085
+25 86 Kansas State Univ Wildcat Offroad 40 6:45.274 (at 13:27:40.534) 4:04.763 (lap 22) 6:03.751
+26 39 California State Poly Univ - Pomona Bronco Racing 40 4:22.432 (at 13:27:58.047) 4:19.377 (lap 15) 6:06.972
+27 72 New Jersey Institute of Technology Highlander racing 38 5:10.409 (at 13:26:04.907) 4:30.802 (lap 15) 6:21.007
+28 55 Penn State Univ - Altoona Penn State Altoona Motorsports 37 5:51.411 (at 13:25:21.382) 4:09.758 (lap 14) 6:30.019
+29 37 Rowan Univ Rowan Motorsports 37 6:40.072 (at 13:27:12.010) 4:33.736 (lap 14) 6:26.591
+30 120 Youngstown State Univ penguin baja racing 36 4:45.431 (at 12:30:44.376) 4:14.417 (lap 15) 5:10.226
+31 103 Univ of Missouri Mizzou Baja Racing 36 7:09.510 (at 12:54:08.125) 4:39.080 (lap 20) 5:43.914
+32 59 Georgia Southern Univ Eagle Motorsports 34 5:36.214 (at 12:32:11.430) 3:54.370 (lap 15) 5:30.092
+33 16 Virginia Tech VT Baja 33 4:12.083 (at 13:27:19.953) 4:04.623 (lap 17) 7:25.845
+34 93 Univ of Akron Zips Baja 32 4:13.527 (at 13:07:25.363) 3:51.305 (lap 7) 6:57.900
+35 87 Univ of Central Florida Knights Racing 31 4:36.108 (at 13:24:26.858) 4:21.373 (lap 11) 7:48.843
+36 25 College of New Jersey TCNJ Motorsports 31 6:53.276 (at 13:27:33.120) 4:34.203 (lap 11) 7:45.503
+37 95 Univ of Missouri - Kansas City Roo Racing 30 5:19.952 (at 13:30:19.574) 4:32.979 (lap 13) 8:19.229
+38 123 North Carolina State Univ - Raleigh Pack Motorsports 29 4:28.340 (at 13:27:56.654) 4:15.428 (lap 8) 8:31.820
+39 35 Case Western Reserve Univ CWRU Motorsports 28 4:29.910 (at 13:26:37.691) 4:10.514 (lap 12) 8:49.349
+40 21 Univ of San Diego Torero Racing 26 8:57.389 (at 13:26:45.822) 4:58.548 (lap 19) 9:17.097
+41 36 Univ of Iowa Iowa Baja Racing 25 5:48.190 (at 13:29:52.157) 5:07.696 (lap 14) 9:54.692
+42 28 Clarkson University Golden Knights Racing 25 5:36.050 (at 13:30:32.084) 4:05.249 (lap 14) 9:46.779
+43 23 Univ of Arizona Baja Wildcat Racing 24 5:07.769 (at 11:32:41.369) 4:44.127 (lap 15) 5:12.036
+44 89 The Ohio State University Baja Buckeyes 23 5:23.660 (at 13:26:36.373) 4:41.357 (lap 22) 10:40.138
+45 107 Univ of Maryland - Baltimore County UMBC Racing 22 5:13.774 (at 13:17:06.660) 4:09.079 (lap 7) 10:16.423
+46 80 Quinnipiac College Bobcat Racing 22 5:51.317 (at 13:26:24.358) 4:49.237 (lap 7) 11:08.379
+47 19 Johns Hopkins Univ Blue Jay Racing 21 8:26.754 (at 12:01:03.084) 3:59.500 (lap 18) 5:52.839
+48 83 California Polytechnic State Univ-SLO Cal Poly Racing 21 5:07.701 (at 12:02:41.421) 4:07.701 (lap 6) 7:38.321
+49 15 Univ of Rochester Yellowjacket Racing 21 17:17.424 (at 13:25:12.967) 4:48.668 (lap 10) 11:42.425
+50 29 IPN - UPIITA Ocelot Racing IPN-UPIITA 21 5:28.823 (at 13:26:38.970) 4:19.324 (lap 17) 9:25.594
+51 84 Pittsburg State University Gorilla Racing 21 5:04.175 (at 13:27:16.232) 4:37.141 (lap 7) 11:47.861
+52 82 Univ of Puerto Rico-Mayaquez RUM Racing Baja SAE 20 7:07.642 (at 13:18:37.206) 5:26.359 (lap 6) 11:43.430
+53 31 Univ of Maryland - College Park Terps Racing 20 4:57.072 (at 13:25:37.360) 4:33.793 (lap 18) 12:12.730
+54 90 Fairfield Univ Fairfield University Baja 19 5:45.704 (at 12:25:57.469) 4:54.334 (lap 9) 7:08.565
+55 127 Michigan State University MSU Baja Racing 19 45:27.407 (at 12:40:09.344) 4:17.985 (lap 5) 10:10.210
+56 65 Univ of Wisconsin - Platteville Pioneer Racing 18 33:37.459 (at 13:17:16.117) 5:24.219 (lap 10) 12:49.329
+57 73 California State Univ- Chico Wildcat racing 14 4:36.039 (at 13:10:16.562) 4:36.039 (lap 14) 13:49.897
+58 47 Univ of Tennessee -Chattanooga Racing Mocs 14 2:27:14.686 (at 13:25:34.426) 5:05.893 (lap 9) 17:49.237
+59 18 Ohio Northern Univ Polar Bear Racing 14 5:25.660 (at 13:27:29.564) 4:27.691 (lap 3) 18:22.463
+60 119 Georgia Institute of Technology GT Off-Road 12 4:23.276 (at 11:11:32.703) 4:11.691 (lap 6) 9:15.845
+61 14 SUNY - Stony Brook Stony Brook Motorsports 11 6:14.222 (at 13:26:28.745) 4:31.016 (lap 9) 23:13.583
+62 75 Univ of Illinois - Urbana Champaign Off-Road Illini Baja SAE 10 49:48.754 (at 12:19:57.539) 4:34.630 (lap 5) 18:29.036
+63 62 Cleveland State Univ Vikings Racing 9 5:51.107 (at 12:55:31.682) 4:06.348 (lap 3) 18:07.046
+64 66 Stevens Institute of Technology Dirty Ducks Racing 9 7:11.021 (at 13:26:27.434) 5:04.190 (lap 4) 28:55.345
+65 41 King Fahd Univ of Petroleum & Minerals kfupm racing 9 8:38.538 (at 13:31:32.330) 8:30.002 (lap 4) 29:10.092
+66 64 Univ of Manitoba Red Lion Racing 7 6:41.355 (at 11:02:48.463) 6:14.497 (lap 2) 14:37.467
+67 26 California State Univ - Los Angeles Rugged Eagle Motorsports 7 6:13.476 (at 13:13:07.102) 5:20.703 (lap 4) 36:32.304
+68 45 George Washington Univ GW Baja 6 5:03.905 (at 13:08:12.081) 4:40.427 (lap 4) 25:42.399
+69 49 San Jose State University Spartan Racing 6 6:21.370 (at 13:03:46.108) 6:08.702 (lap 5) 6:30.648
+70 69 New York University NYU Tandon Motorsports 6 4:56.980 (at 13:08:52.445) 4:50.966 (lap 3) 23:07.207
+71 78 Union College Union College BAJA Racing 5 6:03.795 (at 12:25:06.067) 5:47.203 (lap 4) 42:20.294
+72 118 West Virginia Univ Mountaineers 5 28:47.262 (at 12:28:48.162) 5:11.515 (lap 4) 43:51.131
+73 126 Univ of Illinois - Chicago UIC Motorsports 5 3:04:09.417 (at 13:04:37.744) 5:58.247 (lap 4) 52:51.388
+74 50 California State Univ - Fresno Fresno State Bulldog Racing 4 18:22.699 (at 10:04:14.081) 5:44.924 (lap 3) 10:07.629
+75 52 Miami Univ Redhawk Racing 3 1:59:17.533 (at 11:46:50.717) 12:32.264 (lap 2) 1:05:54.898
+76 112 Kettering Univ Kettering Motorsports 3 45:17.317 (at 12:58:32.895) 45:17.317 (lap 3) 1:39:05.805
+77 116 Purdue Univ - Northwest PNW Baja Motorsports 1 (at 13:20:02.740)  
+78 22 D Y Patil College Of Engineering- Akurdi Team Predators Racing 0  
+79 33 Univ of Oklahoma Sooner Off-Road 0  
+80 42 Wichita State Univ Shocker Racing 0  
+81 44 Manhattan College Manhattan College Jasper Racing 0 (at 9:29:49.561)  
+82 63 Binghamton Univ Binghamton University 0  
+83 74 Univ of Georgia UGA Motorsports 0  
+84 77 Ryerson Univ Ryerson Baja Racing 0 (at 12:05:59.683)  
+85 91 Univ of Nevada - Reno Wolf Pack Racing 0  
+86 97 Univ Federal do Rio Grande do Norte Car-Kara Baja SAE 0  
+87 106 Univ of Texas - El Paso Madpete Motorsports 0  
+88 111 Univ of Wisconsin - Milwaukee Brew City Baja 0  
+Last Data Update: 6/5/2022 2:18:07 PM
+Current Race Time: 4:07:39
+Current Race Flag: green
+Race Leader: 110 - Pennsylvania College of Technology PCT Baja
+Race Leader # of Laps: 57
+Race Leader Margin: 1 Lap
+Fastest Lap By: 104 - Cornell Univ Cornell Baja Racing
+Fastest Lap Time: 3:41.630
+
+
+Accel
+['3.98100 Fastest', '3.98100 Fastest / 6.32200 Slowest', '0.000 Shortest / 0.000 Longest / 100.000 Max', '0.0 per / 0.0 per', '0 / 0', '7 with One Run / 68 with Two Runs', '(5.97150s) 1.5x Fastest Run']
+Maneuv
+['61.91100 Fastest', '61.91100 Fastest / 161.54900 Slowest', '0.000 Shortest / 0.000 Longest / 0.000 Max', '10.0 per NoStop / 2.0 per Cones', '0 NoStop / 17 Cones', '31 with One Run / 23 with Two Runs', '(154.77750s) 2.5x Fastest Run']
+Sled
+['5.13900 Fastest', '5.13900 Fastest / 8.99700 Slowest', '0.000 Shortest / 77.000 Longest / 77.000 Max', '0.0 per / 0.0 per', '0 / 0', '12 with One Run / 60 with Two Runs', '(12.84750s) 2.5x Fastest Run']
+Sus
+['38.59200 Fastest', '38.59200 Fastest / 66.10400 Slowest', '1.000 Shortest / 12.000 Longest / 12.000 Max', '5.0 per NoStop / 5.0 per NoStop', '0 NoStop / 1 NoStop', '17 with One Run / 53 with Two Runs', '(96.48000s) 2.5x Fastest Run']
+Endurance
+['4:07:39', 'green', '110 - Pennsylvania College of Technology PCT Baja', '57', '1 Lap', '104 - Cornell Univ Cornell Baja Racing', '3:41.630']
